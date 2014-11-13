@@ -11,4 +11,5 @@
 
 #### Пример пользователей в базе данных по умолчанию
 sample_user@gmail.com, пароль: cool_password
+
 heyzea1@gmail.com, пароль:  another_password
