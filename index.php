@@ -29,7 +29,6 @@ if(isset($_POST['action']) && $_POST['action'] == 'login') {
     DESTROY AuthenticationController
   */
   AuthenticationController::destroy();
-  $content = AutheficationView::build_form();
 
 } else {
   /*
