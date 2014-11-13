@@ -12,8 +12,7 @@ foreach ($files as $file)
 
 /*
   Here goes code, related for authentication controller
-  Actually this block should be called by application router, but this this not realized in this application
-  Checking for show OR post action actually belongs to router
+  Actually this block should be called by application router, but this not realized in application
 */
 
 session_start();
